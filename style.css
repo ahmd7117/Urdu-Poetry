@@ -1,0 +1,24 @@
+body {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  direction: rtl;
+  text-align: right;
+  background-color: #fdfdfc;
+  color: #333;
+  padding: 20px;
+  line-height: 2;
+}
+h1, h2 {
+  color: #5a2a83;
+  margin-top: 10px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin: 12px 0;
+}
+a {
+  text-decoration: none;
+  color: #1a73e8;
+}
