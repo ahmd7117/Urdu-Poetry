@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+  <meta charset="UTF-8">
+  <title>اردو شاعری</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>اردو کا حسین دیوان</h1>
+    <p>عظیم شعراء کی دل سے نکلی ہوئی شاعری کا مجموعہ</p>
+    <nav>
+      <a href="poems/faraz.html">احمد فراز</a>
+      <a href="poems/faiz.html">فیض احمد فیض</a>
+      <a href="poems/jaun.html">جون ایلیا</a>
+      <a href="poems/parveen.html">پروین شاکر</a>
+      <a href="poems/muneer.html">منیر نیازی</a>
+    </nav>
+  </div>
+</body>
+</html>
